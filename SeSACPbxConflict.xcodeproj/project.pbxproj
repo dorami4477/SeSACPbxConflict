@@ -51,8 +51,7 @@
 		483BAECF2CB4CCE6007DABFA /* SeSACPbxConflict */ = {
 			isa = PBXGroup;
 			children = (
-				483BAED02CB4CCE6007DABFA /* SeSACPbxConflictApp.swift */,
-				483BAED22CB4CCE6007DABFA /* ContentView.swift */,
+				483BAEDE2CB4D04D007DABFA /* Den */,
 				483BAED42CB4CCE9007DABFA /* Assets.xcassets */,
 				483BAED62CB4CCE9007DABFA /* Preview Content */,
 			);
@@ -65,6 +64,15 @@
 				483BAED72CB4CCE9007DABFA /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		483BAEDE2CB4D04D007DABFA /* Den */ = {
+			isa = PBXGroup;
+			children = (
+				483BAED02CB4CCE6007DABFA /* SeSACPbxConflictApp.swift */,
+				483BAED22CB4CCE6007DABFA /* ContentView.swift */,
+			);
+			path = Den;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
