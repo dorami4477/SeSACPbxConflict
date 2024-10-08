@@ -79,6 +79,8 @@
 		483BAEDF2CB4D497007DABFA /* Den */ = {
 			isa = PBXGroup;
 			children = (
+				483BAED22CB4CCE6007DABFA /* ContentView.swift */,
+				483BAED02CB4CCE6007DABFA /* SeSACPbxConflictApp.swift */,
 			);
 			path = Den;
 			sourceTree = "<group>";
