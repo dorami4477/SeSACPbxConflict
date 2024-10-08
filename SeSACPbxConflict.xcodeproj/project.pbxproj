@@ -70,6 +70,8 @@
 		483BAEDE2CB4D04D007DABFA /* Bran */ = {
 			isa = PBXGroup;
 			children = (
+				483BAED22CB4CCE6007DABFA /* ContentView.swift */,
+				483BAED02CB4CCE6007DABFA /* SeSACPbxConflictApp.swift */,
 			);
 			path = Bran;
 			sourceTree = "<group>";
